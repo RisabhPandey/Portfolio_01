@@ -53,7 +53,6 @@ portfolio/
 
 - Email: rishabhpandey8176@gmail.com
 - Location: Lucknow, India
-- Phone: +91 9452617299
 
 ## Social Media
 
