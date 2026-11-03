@@ -1,0 +1,82 @@
+RISABH PANDEY
+Web Developer & Data Scientist
+
+CONTACT
+Email: rishabhpandey8176@gmail.com
+Phone: +91 9452617299
+Location: Lucknow, India
+LinkedIn: https://www.linkedin.com/in/risabhpandey94?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+GitHub: github.com/risabhpandey
+
+EDUCATION
+Bachelor's Of Technology in Computer Science (Data Science)
+PSIT Kanpur
+2024 - 2028 (Expected)
+
+SKILLS
+Programming: HTML, CSS, JavaScript, Python, SQL
+Frameworks/Libraries: React, Bootstrap, jQuery, Node.js
+Data Science: Machine Learning, Data Analysis, Visualization
+Tools: Git, VS Code, Photoshop, Figma
+Database: MongoDB, MySQL
+
+PROJECTS
+
+E-commerce Platform
+- Developed a full-featured online store with product listings, shopping cart, and payment integration
+- Implemented responsive design for optimal viewing on all devices
+- Technologies: React, Node.js, MongoDB, Stripe API
+- Link: https://github.com/risabhpandey/ecommerce-platform
+
+Creative Portfolio Design
+- Created a modern portfolio website with smooth animations and parallax effects
+- Designed adaptive layouts for all screen sizes
+- Technologies: Figma, HTML5, CSS3, JavaScript
+- Link: https://github.com/risabhpandey/portfolio-template
+
+Taskify App
+- Built a feature-rich mobile application for task management
+- Implemented reminders, categories, progress tracking, and cloud synchronization
+- Technologies: React Native, Firebase, Redux
+- Link: https://github.com/risabhpandey/taskify-app
+
+Interactive Blog Platform
+- Designed a dynamic blog website with content management system
+- Features include real-time comments, user authentication, and content recommendation
+- Technologies: Next.js, GraphQL, Auth0
+- Link: https://github.com/risabhpandey/interactive-blog
+
+Predictive Analytics Dashboard
+- Created an interactive dashboard for business insights with machine learning models
+- Implemented sales forecasting, customer segmentation, and trend analysis
+- Technologies: Python, Scikit-learn, Pandas, Plotly Dash
+- Link: https://github.com/risabhpandey/predictive-analytics
+
+Social Media Sentiment Analysis
+- Developed a real-time sentiment analysis tool for social media posts and customer reviews
+- Extracted emotional tone and key insights from text data
+- Technologies: NLP, BERT, TensorFlow, Twitter API
+- Link: https://github.com/risabhpandey/sentiment-analysis
+
+Advanced Image Recognition System
+- Built a deep learning application that identifies objects, scenes, and people in images
+- Implemented transfer learning and custom model training for high accuracy
+- Technologies: Computer Vision, PyTorch, CNN, Flask
+- Link: https://github.com/risabhpandey/image-recognition-ai
+
+CERTIFICATIONS
+- Web Development Bootcamp - Udemy (2022)
+- Python for Data Science - Coursera (2023)
+- Machine Learning Fundamentals - edX (2023)
+- Responsive Web Design - freeCodeCamp (2022)
+
+LANGUAGES
+- English (Fluent)
+- Hindi (Native)
+
+INTERESTS
+- Web Development
+- Data Science & AI
+- User Interface Design
+- Open Source Contribution
+- Technology Trends 
